@@ -1,5 +1,5 @@
 Author
-Japhet Paul <japhetpaul@gmail.com>
+Japhet Paul <japhetbuta@gmail.com>
 
 Portfolio project
 
